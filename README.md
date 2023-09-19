@@ -1,3 +1,5 @@
+https://github.com/AuwaisQ/Souled-Store/assets/53910217/42b9ce83-cf80-4777-8cd1-1cd1bbe6f587
+
 # TheSouledStore Clone - Flutter E-commerce UI
 
 ![TheSouledStore Clone](https://example.com/thesouledstore-clone-screenshot.png)
@@ -34,8 +36,3 @@
 ## Contribution
 
 Contributions are welcome! Feel free to open issues or pull requests to help enhance this project.
-
-
-
-https://github.com/AuwaisQ/Souled-Store/assets/53910217/42b9ce83-cf80-4777-8cd1-1cd1bbe6f587
-
